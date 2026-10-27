@@ -1,0 +1,14 @@
+{
+  "source_sha256": "e2871d818fe0253a152e8faa9ab112bb937832cb5e619a02a352c9558ce2eb8f",
+  "output_sha256": "bfa0cb3f47ffbe0ee890b19699e42f39b39be02a939807ee08fbbbd062f4a33b",
+  "sun_count": 24,
+  "sun_linear_scale": 0.5,
+  "arrow_count_before": 15,
+  "arrow_count_after": 30,
+  "each_half_length_ratio": 0.5,
+  "pair_total_length_unchanged": true,
+  "positions_and_axes_preserved": true,
+  "other_records_byte_identical": true,
+  "audit_errors": 0,
+  "audit_fixes": 0
+}
