@@ -1,0 +1,35 @@
+{
+  "source_file": "E2-07(夢想館1F燈具)_新增照明_符號調整.dxf",
+  "source_sha256": "bfa0cb3f47ffbe0ee890b19699e42f39b39be02a939807ee08fbbbd062f4a33b",
+  "output_sha256": "0eb71f17afd71bca71ca6aa0a01a518028f5f9d4e82c1b0277ab9514011fce27",
+  "sun_count_excluding_legend": 24,
+  "sun_scale": 0.5,
+  "inner_arrows": 14,
+  "outer_arcs": [
+    7,
+    7
+  ],
+  "total_arrows_excluding_legend": 28,
+  "green_hollow_fixture_count_excluding_legend": 1,
+  "legend_labels": [
+    "LED 17W",
+    "LED 25W",
+    "LE17W"
+  ],
+  "matches_approved_preview_coordinates": true,
+  "other_records_byte_preserved": true,
+  "source_unchanged": true,
+  "audit_errors": 0,
+  "audit_fixes": 0,
+  "layouts": [
+    "Model",
+    "配置1",
+    "配置2"
+  ],
+  "new_layers": [
+    "NEW_LE17W",
+    "NEW_LIGHTING_LEGEND"
+  ],
+  "legend_has_no_raster_images": true,
+  "original_external_references_preserved": true
+}
